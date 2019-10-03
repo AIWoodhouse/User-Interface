@@ -64,3 +64,100 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.main {
+	position: relative;
+	border-bottom: 1px solid black;
+  }
+  ​
+.navLinks {
+	margin-left: 100px;
+}
+  .navLinks nav {
+	display: inline-block;
+	width: 75%;
+	margin: 2%;
+  }
+  ​
+  .navLinks nav a {
+	color: gray;
+	font-size: 60%;
+	text-align: center;
+	padding-right: 30px;
+	padding-left: 20px;
+	text-decoration: none;
+  }
+
+  h1 {
+	border: 2px solid red;
+	vertical-align: middle;
+	position: absolute;
+	top: 50px;
+	display: inline-block;
+	width: 25%; 
+	font-size: 52px;
+  }
+  ​
+  button .getStarted {
+	position: absolute;
+	top: 100px;
+	width: 15%;
+	margin: 0 auto;
+	text-align: center;
+	border: 1px solid black;
+  }
+  ​
+  .logo {
+	position: absolute;
+	width: 15%;
+	top: -2px;
+	left: 650px;
+	margin: 10px;
+  }
+  ​
+  .codeSnip {
+	position: relative;
+	top: 10px;
+	left: 375px;
+	width: 40%;
+  }
+  ​
+  .main-body {
+	border-bottom: 1px solid black;
+	vertical-align: center;
+	width: 75%;
+  }
+  ​
+  #features {
+	display: inline-block;
+	width: 40%;
+	margin: 30px 20px;
+	font-size: 80%;
+  }
+  ​
+  #about {
+	display: inline-block;
+	width: 40%;
+	margin: 30px 30px;
+	font-size: 80%;
+  }
+  ​
+  .main-body img .middle-img {
+	  width: 100%;
+	  margin-top: 2%;
+  }
+
+  .header2 {
+	display: inline-block;
+	width: 25%;
+	margin: 20px 5px;
+	font-size: 80%;
+  }
+
+  footer {
+
+  }
+
+  #copyright {
+	  text-align: center;
+  }
